@@ -13,3 +13,5 @@ python3 Link_Clicking_Bot_File.py
 
 
 [![Screen-Shot-2019-08-16-at-2-42-31-AM.png](https://i.postimg.cc/0502FLhq/Screen-Shot-2019-08-16-at-2-42-31-AM.png)](https://postimg.cc/NLLcrPgN)
+
+You can use your own proxies (if you have any). I just googled random proxies for testing. 
