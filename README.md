@@ -1,0 +1,2 @@
+# ClickBotHeadless
+Headless click bot 
