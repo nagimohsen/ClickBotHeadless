@@ -1,8 +1,8 @@
 # ClickBotHeadless
 Headless bot 
-Made when friend was asked to refer unique link in order to get clicks for her job requirement. Made out of curiousity to see
-if it would be possible. 
-Uses Python3 & Selenium
+I decided to make when a friend asked me to refer unique link in order to get clicks for a job requirement. 
+I tested my curiousity to see if it would be possible. 
+Project uses Python3 & Selenium mainly
 
 CD into project folder
 Run from terminal using Python3 command. 
