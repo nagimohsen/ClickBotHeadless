@@ -4,6 +4,7 @@ Made when friend was asked to refer unique link in order to get clicks for her j
 if it would be possible. 
 Uses Python3 & Selenium
 
+CD into project folder
 Run from terminal using Python3 command. 
 
 ```
